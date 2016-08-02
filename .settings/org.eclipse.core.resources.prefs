@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//controlador/cHome.php=ISO-8859-1
+encoding//controlador/contacto.php=ISO-8859-1
+encoding//controlador/mensajes.php=ISO-8859-1
+encoding//controlador/mostrar.php=ISO-8859-1
+encoding//controlador/nosotros.php=ISO-8859-1
+encoding//modelo/conexion.php=ISO-8859-1
+encoding//modelo/contacto.php=UTF-8
+encoding//publico/scripts/funciones.js=ISO-8859-1
+encoding//vista/includes/contacto.php=ISO-8859-1
+encoding//vista/includes/galeriaD.php=ISO-8859-1
+encoding//vista/includes/insertarC.php=ISO-8859-1
+encoding//vista/includes/listar.php=ISO-8859-1
+encoding//vista/includes/nosotros.php=ISO-8859-1
+encoding//vista/masterPage.php=ISO-8859-1
